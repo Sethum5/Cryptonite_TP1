@@ -1,4 +1,4 @@
-#home sweet homne
+# home sweet homne
 
 ```bash
 hacker@paths~home-sweet-home:~$ /challenge/run ~/f
